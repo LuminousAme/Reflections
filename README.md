@@ -15,4 +15,4 @@ In additional this prototype also features the following Ui mockup
 The justifcation report will be submitted seperately as a pdf. 
 
 Thank you for reading! 
-Atlas X Games.
+Atlas X Games
