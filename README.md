@@ -10,7 +10,7 @@ This demo is playable at the following link: https://luminousame.github.io/Refle
 
 In additional this prototype also features the following Ui mockup
 
-![UI Mockup](Reflections UI mockup.png)
+![UI Mockup](Images/ReflectionsUIMockup.png)
 
 The justifcation report will be submitted seperately as a pdf. 
 
